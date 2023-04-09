@@ -27,3 +27,4 @@ function stopColorSwitcher() {
 startBtn.addEventListener('click', startColorSwitcher);
 stopBtn.addEventListener('click', stopColorSwitcher);
 
+
